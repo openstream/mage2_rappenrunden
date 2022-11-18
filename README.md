@@ -1,13 +1,10 @@
-**THIS REPO IS UNMAINTAINED / A NEW MAINTAINER IS NEEDED**
-=================
-
 Comsolit RappenRunden Magento2 Extension
 ========================================
 
 Introduction
 ------------
-This simple magento 2 module listens to the magento2 internal round() function and rounds the price before to 1/20th (0.05).
-For example, a value of 1,23 will be rounded up to 1,25 and a value of 0,97 will be rounded down to 0,95.
+This simple Magento 2 module listens to the Magento 2 internal round() function and rounds the price before to 1/20th (0.05).
+For example, a value of 1.23 will be rounded up to 1.25 and a value of 0.97 will be rounded down to 0.95.
 
 This functionality is particularly wide-spread in Switzerland, but is not dependent on a specific currency.
 
