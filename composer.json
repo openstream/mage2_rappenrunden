@@ -1,5 +1,5 @@
 {
-  "name": "comsolit/rappenrunden",
+  "name": "openstream/mage2_rappenrunden",
   "description": "Rounds store prices to 1/20th or 1/10th - ie: to 0.05 or 0.1 of your currency",
   "keywords": ["rappenrunden", "runden", "round", "currency", "swiss", "francs", "comsolit"],
   "require": {
@@ -16,6 +16,11 @@
       "name": "comsolit AG",
       "email": "info@comsolit.com",
       "homepage": "https://www.comsolit.com"
+    },
+    {
+      "name": "Openstream Internet Solutions",
+      "email": "info@openstream.ch",
+      "homepage": "https://www.openstream.ch"
     }
   ],
   "autoload": {
