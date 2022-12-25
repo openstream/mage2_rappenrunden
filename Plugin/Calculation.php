@@ -42,7 +42,7 @@ class Calculation
     {
         $rounding = $this->_helper->roundTo();
         if ($this->_helper->isEnabled()) {
-            $price = round($price * $rounding) / $rounding;
+            $price = round(((float) $price) * $rounding) / $rounding;
         }
 
         return [$price];
