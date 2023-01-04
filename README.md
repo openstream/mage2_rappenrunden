@@ -34,12 +34,12 @@ Do not forget to refresh your cache.
 Changelog
 ------------
 
-#####- version 0.0.4 [03 January 2023]
+**Version 0.0.4 [03 January 2023]**
 
     - Fix non-numeric value issue
 
 
-#####- version 0.0.3 [07 April 2020]
+**Version 0.0.3 [07 April 2020]**
 
     - New Feature: allow switching between 0.05 and 0.1 rounding
     - Dropped PHP 5.5 support;
